@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bursdag</string>
+    <string name="action_settings">Innstillinger</string>
+    
+    <string name="add_contact">Legg til Kontakt</string>
+    <string name="first_name">Fornavn:</string>
+    <string name="last_name">Etternavn:</string>
+    <string name="phone_number">Mobil:</string>
+    <string name="birthday">Bursdag:</string>
+    <string name="message">Melding:</string>
+    
+    <string name="contacts_title">Bursdager</string>
+    <string name="add_button">Legg til</string>
+    
+    <string name="save_data">Lagre</string>
+    
+    <string name="edit_contact_title">Rediger kontakt</string>
+    <string name="edit_button">Endre</string>
+    <string name="delete_button">Slette</string>
+    
+    <string name="regexemptyfirstname1">Fornavn feltett er tom venligst fyll den ut</string>
+    <string name="regexemptyfirstname2">Fyll den ut med bokstaver</string>
+    <string name="regexemptylastname1">Etternavn feltett er tom venligst fyll den ut</string>
+    <string name="regexemptylastname2">Fyll den ut med bokstaver</string>
+    <string name="regexemptyphonenumber1">Mobil feltett er tom venligst fyll den ut</string>
+    <string name="regexemptyphonenumber2">Fyll den ut med tall</string>
+    <string name="regexemptybirthday1">Bursdag feltett er tom venligst fyll den ut</string>
+    <string name="regexemptybirthday2">Fyll den ut med dd/mm/yyyy</string>
+    <string name="regexemptymessage">Melding feltett er tom venligst fyll den ut</string>
+    <string name="birthdayreminder1">BursdagPåminder</string>
+    <string name="sms">Du sendte nettopp sms til bursdagsbarnet</string>
+    
+
+</resources>
